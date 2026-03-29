@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+# CMake build output
+build/
+build-*/
+
+# In-source CMake artifacts (if CMake is run without -B)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+Testing/
+DartConfiguration.tcl
+compile_commands.json

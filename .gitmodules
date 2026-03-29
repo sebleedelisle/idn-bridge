@@ -1,0 +1,6 @@
+[submodule "extern/libera-core"]
+	path = extern/libera-core
+	url = https://github.com/sebleedelisle/libera-core
+[submodule "extern/helios_openidn"]
+	path = extern/helios_openidn
+	url = https://github.com/sebleedelisle/helios_openidn
